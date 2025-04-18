@@ -28,7 +28,7 @@ This project demonstrates the basics of **Object-Oriented Programming (OOP)** in
 ## 🧮 Example Output
 
 ```
-Hi, I'm Alice and I'm 25 years old.
-Hi, I'm Bob and I'm 30 years old.
-Hi, I'm Charlie and I'm 22 years old.
+Hi, I'm Alice and I'm 25.
+Hi, I'm Bob and I'm 30.
+Hi, I'm Charlie and I'm.
 ```

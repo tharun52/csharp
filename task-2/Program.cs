@@ -15,7 +15,7 @@ namespace task2
 
         public void Introduce()
         {
-            Console.WriteLine($"Hi, I'm {Name} and I'm {Age} years old.");
+            Console.WriteLine($"Hi, I'm {Name} and I'm {Age}.");
         }
     }
 
